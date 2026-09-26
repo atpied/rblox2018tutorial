@@ -21,13 +21,13 @@ do this for player:
 7. search for Non-trusted Base  URL used. HttpRbxApiService is only for Roblox API calls and double click
 8. look up and find instruction with jne
 9. jmp it
-10. done
+10. done, ctrl+p and save
 
 do this for rcc:
-1. do all fixes that you made for player
+1. do all fixes that you made for player then ctrl+p and save
 2. that's all for x32dbg, now open HxD
 3. ctrl+f and paste 00 68 74 74 70 73 00
 4. replace it with 00 68 74 74 70 00 00
-5. done
+5. done, ctrl+s to save in hxd
 
 congratz i hope i helped u
