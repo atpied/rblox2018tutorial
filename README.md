@@ -1,6 +1,11 @@
 My strange localhost tutorial
 
 da, written when i was 13 years old
+
+ima remember much of gameplay from 2018 so i am wanted to patch this thing
+
+very hard but yeaaaaa it's patched now with leaked myself guide
+
 made by atpied
 
 Versions patched:
