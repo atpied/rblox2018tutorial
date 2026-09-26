@@ -2,7 +2,7 @@ My strange localhost tutorial
 made by atpied
 
 Versions patched:
-0.347, 0.348 (other isn't tested)
+0.347, 0.348 (others isn't tested)
 
 Tools needed:
 x32dbg, HxD
