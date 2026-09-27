@@ -32,8 +32,7 @@ do this for rcc:
 1. do all fixes that you made for player then ctrl+p and save
 2. that's all for x32dbg, now open HxD
 3. ctrl+f, go to hex tab and paste 00 68 74 74 70 73 00
-4. replace it with 00 68 74 74 70 00 00
-*If you don't do this rcc will sends you lot of cURL errors
-6. done, ctrl+s to save in hxd
+4. replace it with 00 68 74 74 70 00 00      < *If you don't do this rcc will sends you lot of cURL errors
+5. done, ctrl+s to save in hxd
 
 congratz i hope i helped u
